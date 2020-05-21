@@ -14,7 +14,9 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    <h1>Teste</h1>
+
+                    <button class="btn btn-lg btn-success">Bootstrap Ok!</button>
                 </div>
             </div>
         </div>
